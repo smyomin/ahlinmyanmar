@@ -7,7 +7,7 @@ export default function Header({ locale }: { locale: "en" | "my" }) {
   return (
     <header className="bg-brand-blue text-brand-white flex items-center justify-between px-6 py-4">
       <Link href={`/${locale}`} className="flex items-center gap-3">
-        <Image src="/logo.png" alt="Ahlin Myanmar Aotearoa" width={48} height={48} />
+        <Image src="/logo.png" alt="Ahlin Myanmar Aotearoa" width={100} height={100} />
         <span className="font-bold text-lg">Ahlin Myanmar Aotearoa</span>
       </Link>
 
