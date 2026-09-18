@@ -27,5 +27,11 @@
     "whoWeAre": "Who We Are",
     "mission": "Our Mission",
     "team": "Our Team"
-  }
+  },
+  "community": {
+  "title": "Community",
+  "intro": "Explore the ways we support and connect our community members across Aotearoa New Zealand.",
+  "support": "Community Support",
+  "directory": "Community Directory"
+}
 }
