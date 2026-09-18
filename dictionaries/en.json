@@ -12,5 +12,13 @@
       { "title": "Cultural Heritage", "desc": "Traditional dance & family cultural celebrations" },
       { "title": "Community Support", "desc": "Social gatherings, info sharing, and guiding you to helpful services & providers" }
     ]
+  },
+  "footer": {
+    "about": "A community-led group connecting Myanmar people in Aotearoa New Zealand.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "email": "info@ahlinmyanmar.org.nz",
+    "location": "Auckland, New Zealand",
+    "rights": "All rights reserved."
   }
 }
