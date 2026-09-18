@@ -9,7 +9,7 @@ export default async function Home({
   const dict = await getDictionary(locale);
 
   return (
-    <main style={{ padding: "2rem", textAlign: "center" }}>
+    <main className="bg-brand-blue text-brand-white" style={{ padding: "2rem", textAlign: "center" }}>
       <h1>{dict.home.title}</h1>
       <p>{dict.home.tagline}</p>
     </main>
