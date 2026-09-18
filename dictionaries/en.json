@@ -1,6 +1,16 @@
 {
   "home": {
     "title": "Ahlin Myanmar Aotearoa",
-    "tagline": "Together, We Grow Stronger"
+    "tagline": "Together, We Grow Stronger",
+    "intro": "We are a community-led group connecting Myanmar people in Aotearoa New Zealand through care, culture, and collaboration.",
+    "cta": "Join Us",
+    "programmesTitle": "What We Do",
+    "programmes": [
+      { "title": "Youth Development", "desc": "Sports, cultural games & swimming programmes" },
+      { "title": "Elder Wellbeing", "desc": "Free mobile hair & nails care, Elder's Respect Day & peaceful outings" },
+      { "title": "Women's Empowerment", "desc": "Walking, swimming & mindfulness activities" },
+      { "title": "Cultural Heritage", "desc": "Traditional dance & family cultural celebrations" },
+      { "title": "Community Support", "desc": "Social gatherings, info sharing, and guiding you to helpful services & providers" }
+    ]
   }
 }
