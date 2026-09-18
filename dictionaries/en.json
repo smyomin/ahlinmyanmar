@@ -20,5 +20,12 @@
     "email": "info@ahlinmyanmar.org.nz",
     "location": "Auckland, New Zealand",
     "rights": "All rights reserved."
+  },
+  "about": {
+    "title": "About Us",
+    "intro": "Learn more about who we are, what drives us, and the people behind Ahlin Myanmar Aotearoa.",
+    "whoWeAre": "Who We Are",
+    "mission": "Our Mission",
+    "team": "Our Team"
   }
 }
