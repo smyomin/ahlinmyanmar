@@ -35,5 +35,15 @@
   "directory": "Community Directory",
   "supportBody": "We offer social gatherings, information sharing, and guidance to helpful services and providers — helping community members navigate life in New Zealand with confidence and support.",
   "directoryBody": "Our community directory connects you with trusted local services, providers, and fellow community members who can help with everything from settling in to everyday needs."
+},
+"programmes": {
+  "title": "Programmes",
+  "intro": "Discover our tailored programmes designed to support different groups within our community.",
+  "youth": "Youth",
+  "women": "Women",
+  "professionals": "Professionals",
+  "youthBody": "Our Youth programme offers sports, cultural games, and swimming activities that help young people stay active, build friendships, and connect with their Myanmar heritage.",
+  "womenBody": "Our Women's programme includes walking groups, swimming sessions, and mindfulness activities designed to support wellbeing and build a strong, connected network of women in our community.",
+  "professionalsBody": "Our Professionals programme connects skilled and career-driven members of our community, offering networking opportunities and support for career growth in New Zealand."
 }
 }
