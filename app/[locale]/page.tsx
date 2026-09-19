@@ -50,6 +50,18 @@ export default async function Home({
     </div>
   </div>
 </section>
+<section className="px-6 py-16 bg-gray-50">
+  <div className="max-w-5xl mx-auto">
+    <h2 className="text-3xl font-bold text-brand-blue-dark text-center mb-10">
+      {dict.gallery.title}
+    </h2>
+    <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+      <img src="/gallery-1.jpg" alt="Community event" className="w-full h-64 object-cover rounded-lg" />
+      <img src="/gallery-2.jpg" alt="Community event" className="w-full h-64 object-cover rounded-lg" />
+      <img src="/gallery-3.jpg" alt="Community event" className="w-full h-64 object-cover rounded-lg" />
+    </div>
+  </div>
+</section>
     </main>
   );
 }
