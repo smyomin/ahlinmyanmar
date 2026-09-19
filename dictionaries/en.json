@@ -84,5 +84,15 @@
   "email": "Email",
   "message": "Message",
   "send": "Send Message"
+},
+"stats": {
+  "years": "Years Active",
+  "yearsValue": "3+",
+  "members": "Community Members",
+  "membersValue": "200+",
+  "events": "Events Held",
+  "eventsValue": "30+",
+  "volunteers": "Active Volunteers",
+  "volunteersValue": "25+"
 }
 }

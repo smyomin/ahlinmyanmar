@@ -84,5 +84,15 @@
   "email": "အီးမေးလ်",
   "message": "စာသား",
   "send": "စာပို့ရန်"
+},
+"stats": {
+  "years": "လုပ်ဆောင်နေသည့်နှစ်များ",
+  "yearsValue": "၃+",
+  "members": "အသိုင်းအဝိုင်းအဖွဲ့ဝင်များ",
+  "membersValue": "၂၀၀+",
+  "events": "ကျင်းပပြီးပွဲများ",
+  "eventsValue": "၃၀+",
+  "volunteers": "စေတနာ့ဝန်ထမ်းများ",
+  "volunteersValue": "၂၅+"
 }
 }
