@@ -63,5 +63,15 @@
 "news": {
   "title": "News & Stories",
   "body": "Follow our latest news, community stories, and updates from Ahlin Myanmar Aotearoa. Check back regularly for highlights from our events, member spotlights, and announcements."
+},
+"getInvolved": {
+  "title": "Get Involved",
+  "intro": "There are many ways to support Ahlin Myanmar Aotearoa and be part of our journey.",
+  "volunteer": "Volunteer",
+  "membership": "Membership",
+  "sponsorship": "Sponsorship",
+  "volunteerBody": "Volunteers are the heart of everything we do. Whether it's helping at events, supporting our programmes, or lending your skills, there's a place for you to contribute.",
+  "membershipBody": "Become a member of Ahlin Myanmar Aotearoa to stay connected with our community, access member events, and have a voice in shaping our future.",
+  "sponsorshipBody": "Sponsorship from individuals and businesses helps fund our programmes and humanitarian efforts. Partner with us to make a lasting impact on our community."
 }
 }
