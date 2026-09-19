@@ -73,5 +73,13 @@
   "volunteerBody": "Volunteers are the heart of everything we do. Whether it's helping at events, supporting our programmes, or lending your skills, there's a place for you to contribute.",
   "membershipBody": "Become a member of Ahlin Myanmar Aotearoa to stay connected with our community, access member events, and have a voice in shaping our future.",
   "sponsorshipBody": "Sponsorship from individuals and businesses helps fund our programmes and humanitarian efforts. Partner with us to make a lasting impact on our community."
+},
+"contact": {
+  "title": "Contact",
+  "intro": "Have a question or want to get in touch? Send us a message and we'll get back to you.",
+  "name": "Name",
+  "email": "Email",
+  "message": "Message",
+  "send": "Send Message"
 }
 }
