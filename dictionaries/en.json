@@ -45,5 +45,23 @@
   "youthBody": "Our Youth programme offers sports, cultural games, and swimming activities that help young people stay active, build friendships, and connect with their Myanmar heritage.",
   "womenBody": "Our Women's programme includes walking groups, swimming sessions, and mindfulness activities designed to support wellbeing and build a strong, connected network of women in our community.",
   "professionalsBody": "Our Professionals programme connects skilled and career-driven members of our community, offering networking opportunities and support for career growth in New Zealand."
+},
+"events": {
+  "title": "Events",
+  "intro": "Stay up to date with our regular gatherings, special celebrations, and annual meetings.",
+  "regular": "Regular Events",
+  "special": "Special Events",
+  "agm": "AGM/Member Meeting",
+  "regularBody": "We host regular community gatherings throughout the year, giving members a chance to connect, socialise, and stay engaged with what's happening in our community.",
+  "specialBody": "From cultural festivals to milestone celebrations, our special events bring the community together to celebrate our heritage and shared achievements.",
+  "agmBody": "Our Annual General Meeting and member gatherings are where we review the year's progress, share plans for the future, and hear directly from our members."
+},
+"humanitarian": {
+  "title": "Humanitarian",
+  "body": "We are committed to providing humanitarian aid to Myanmar refugees and war victims. Through fundraising efforts and community support, we help those affected by conflict access essential resources and stand in solidarity with those still facing hardship back home."
+},
+"news": {
+  "title": "News & Stories",
+  "body": "Follow our latest news, community stories, and updates from Ahlin Myanmar Aotearoa. Check back regularly for highlights from our events, member spotlights, and announcements."
 }
 }
