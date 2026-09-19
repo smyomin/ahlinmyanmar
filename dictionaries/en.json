@@ -21,12 +21,15 @@
     "location": "Auckland, New Zealand",
     "rights": "All rights reserved."
   },
-  "about": {
+   "about": {
     "title": "About Us",
     "intro": "Learn more about who we are, what drives us, and the people behind Ahlin Myanmar Aotearoa.",
     "whoWeAre": "Who We Are",
     "mission": "Our Mission",
-    "team": "Our Team"
+    "team": "Our Team",
+    "whoWeAreBody": "Ahlin Myanmar Aotearoa was formed by members of the Myanmar community in Auckland who wanted to create a supportive network for newcomers and long-time residents alike. Since then, we've grown into a community-led group connecting Myanmar people across Aotearoa New Zealand.",
+    "missionBody": "Our mission is to empower and unite Myanmar people in New Zealand while providing humanitarian aid to Myanmar refugees and war victims. We help every member of our community thrive, connect, and access the support they need.",
+    "teamBody": "Our team is made up of dedicated volunteers from across the Myanmar community, each contributing their time and skills to support our programmes and events."
   },
   "community": {
   "title": "Community",
