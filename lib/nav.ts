@@ -24,14 +24,15 @@ export const navItems: NavItem[] = [
     ],
   },
   {
-    label: { en: "Programmes", my: "ကဏ္ဍအလိုက် အစီအစဉ်များ" },
-    href: "/programmes",
-    children: [
-      { label: { en: "Youth", my: "လူငယ်ကဏ္ဍ" }, href: "/programmes/youth" },
-      { label: { en: "Women", my: "အမျိုးသမီးကဏ္ဍ" }, href: "/programmes/women" },
-      { label: { en: "Professionals", my: "ကျွမ်းကျင်ပညာရှင်များ" }, href: "/programmes/professionals" },
-    ],
-  },
+  label: { en: "Programmes", my: "ကဏ္ဍအလိုက် အစီအစဉ်များ" },
+  href: "/programmes",
+  children: [
+    { label: { en: "Youth", my: "လူငယ်ကဏ္ဍ" }, href: "/programmes/youth" },
+    { label: { en: "Women", my: "အမျိုးသမီးကဏ္ဍ" }, href: "/programmes/women" },
+    { label: { en: "Professionals", my: "ကျွမ်းကျင်ပညာရှင်များ" }, href: "/programmes/professionals" },
+    { label: { en: "Job Board", my: "အလုပ်အကိုင်သတင်းဘုတ်" }, href: "/programmes/professionals/job-board" },
+  ],
+},
   {
     label: { en: "Events", my: "ပွဲလမ်းသဘင်များ" },
     href: "/events",
