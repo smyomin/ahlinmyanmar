@@ -97,5 +97,11 @@
 },
 "gallery": {
   "title": "Community Moments"
+},
+"cta": {
+  "heading": "Ready to Join Our Journey?",
+  "body": "Whether you're looking to connect, volunteer, or support our mission, there's a place for you at Ahlin Myanmar Aotearoa.",
+  "joinButton": "Become a Member",
+  "donateButton": "Support Us"
 }
 }
