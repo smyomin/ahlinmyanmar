@@ -18,10 +18,10 @@ export default async function MembershipPage({
           src="https://docs.google.com/forms/d/e/1FAIpQLSdEdDSUe9M_0nuPyU5ZCIBLBplLqAZqfZA7Wyz4juxwMsJwTQ/viewform?embedded=true"
           title="Membership Sign-up Form"
           width="100%"
-          height="730"
+          height="860"
           loading="lazy"
           className="w-full"
-          style={{ marginTop: "-130px" }}
+          style={{ marginTop: "-130px", marginBottom: "-100px" }}
         >
           Loading…
         </iframe>
